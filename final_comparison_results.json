@@ -1,0 +1,12 @@
+{
+  "base_model": {
+    "faithfulness": 0.4577711640211641,
+    "context_precision": 0.8999999999099999,
+    "hallucination_rate": 0.5422
+  },
+  "finetuned_model": {
+    "faithfulness": 0.660142857142857,
+    "context_precision": 0.8999999999099999,
+    "hallucination_rate": 0.3399
+  }
+}

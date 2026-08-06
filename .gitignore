@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Environment variables
+.env
+
+# Model weights and checkpoints (too large for git, not needed in repo)
+qwen_qlora_adapter/
+!space_app/qwen_qlora_adapter/NOTE.md
+qwen_qlora_checkpoints/
+phi3_qlora_checkpoints/
+*.safetensors
+*.bin
+
+# MLflow tracking data (local run artifacts, not needed in repo)
+mlflow/mlruns/
+
+# HuggingFace cache
+hf_cache/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Evaluation intermediate files (kept locally, not needed in repo)
+eval_responses.json
