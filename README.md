@@ -175,7 +175,7 @@ HuggingFace Spaces (ZeroGPU): https://huggingface.co/spaces/christoph047/custome
 
 Runs on free ZeroGPU hardware, so the first request might take a little longer while a GPU is allocated.
 
-![Gradio comparison interface placeholder](docs/gradio_screenshot_placeholder.png)
+![Gradio comparison interface placeholder](https://github.com/Chris-Cruz08/customer-support-llm-finetuning/blob/1550116024a1b5a8064986387a9a13bb98ef551e/gradio%20fine%20tune.png)
 *Screenshot: side-by-side comparison interface showing base vs. fine-tuned model responses.*
 
 ## Repository Structure
